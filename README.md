@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Coming soon.
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-solution-SyMwdffV9](https://www.frontendmentor.io/solutions/social-proof-section-solution-SyMwdffV9)
 - Live Site URL: [https://social-proof-section-solution-six.vercel.app/](https://social-proof-section-solution-six.vercel.app/)
 
 ## My process
