@@ -1,0 +1,20 @@
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: 0;
+  min-height: 100vh;
+  background-image: url("../public/images/bg-pattern-top-desktop.svg"),
+    url("../public/images/bg-pattern-bottom-desktop.svg");
+  background-position: top left, bottom right;
+  background-repeat: no-repeat;
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    background-image: url("../public/images/bg-pattern-top-mobile.svg"),
+      url("../public/images/bg-pattern-bottom-mobile.svg");
+    background-position: top left, bottom right;
+    background-repeat: no-repeat;
+  }
+}

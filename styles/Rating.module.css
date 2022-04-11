@@ -1,0 +1,41 @@
+.ratingContainer {
+  display: flex;
+  align-items: center;
+  background-color: hsl(300, 24%, 96%);
+  width: 425px;
+  border-radius: 8px;
+  padding: 1.15em 0;
+}
+
+.starsContainer {
+  display: flex;
+  align-items: baseline;
+  margin: 0 2em;
+}
+
+.star {
+  margin: 0 0.25em;
+}
+
+.ratingHeader {
+  margin: 0;
+  font-weight: 700;
+}
+
+@media screen and (max-width: 768px) {
+  .ratingContainer {
+    width: 100%;
+    flex-direction: column;
+    justify-content: space-evenly;
+    padding: 1em 0;
+    gap: 1em;
+  }
+
+  .ratingHeader {
+    margin: 0;
+  }
+
+  .starsContainer {
+    margin: 0;
+  }
+}
