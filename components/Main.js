@@ -61,7 +61,7 @@ function Main() {
             author={testimonial.author}
             isVerified={testimonial.isVerified}
             text={testimonial.text}
-            marginTop={isMobileSize ? "0" : `${index * 1.25}em`}
+            marginTop={isMobileSize ? "0" : `${index * 1}em`}
           />
         ))}
       </div>

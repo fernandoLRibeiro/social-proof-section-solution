@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: space-around;
   gap: 5em;
-  width: 72.5%;
+  width: 75%;
   padding: 5em 0;
 }
 
@@ -26,14 +26,13 @@
 }
 
 .header {
-  line-height: 1em;
   letter-spacing: 0px;
   font-size: 3em;
+  /* line-height: 1em; */
 }
 
 .p {
-  font-size: 1em;
-  line-height: 1.75em;
+  line-height: 1.5em;
   font-weight: 500;
   color: hsl(303, 10%, 53%);
 }
@@ -52,7 +51,7 @@
 
 .testimonialsContainer {
   display: flex;
-  gap: 2em;
+  gap: 1.5em;
 }
 
 @media screen and (max-width: 800px) {
