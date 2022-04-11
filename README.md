@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: Coming Soon
-- Live Site URL: Coming soon
+- Solution URL: Coming soon.
+- Live Site URL: [https://social-proof-section-solution-six.vercel.app/](https://social-proof-section-solution-six.vercel.app/)
 
 ## My process
 
