@@ -26,12 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](./screenshot.png)
 
 ### Links
 
-- Solution URL: Coming Soon
-- Live Site URL: Coming soon
+- Solution URL: [https://www.frontendmentor.io/solutions/social-proof-section-solution-SyMwdffV9](https://www.frontendmentor.io/solutions/social-proof-section-solution-SyMwdffV9)
+- Live Site URL: [https://social-proof-section-solution-six.vercel.app/](https://social-proof-section-solution-six.vercel.app/)
 
 ## My process
 
@@ -53,7 +53,7 @@ I need to get better at NextJS and discerning when to use a javascript library/f
 
 ### Useful resources
 
-- [How to detect window size in Next.js SSR using react hook?](https://stackoverflow.com/questions/63406435/how-to-detect-window-size-in-next-js-ssr-using-react-hook) - This helped me, as the title of the question suggests, how to detect window size in NextJS, which was a way bigger hassle than I anticipated.
+- [How to detect window size in Next.js SSR using react hook?](https://stackoverflow.com/questions/63406435/how-to-detect-window-size-in-next-js-ssr-using-react-hook) - This helped me, as the title of the question suggests, how to detect window size in NextJS, which was more of a hassle than I anticipated.
 
 ## Author
 
